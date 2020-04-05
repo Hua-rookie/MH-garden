@@ -26,3 +26,4 @@ int main()
         cout<<"str1!=str2"<<endl;
     return 0;
 }
+/*a little bit change*/
